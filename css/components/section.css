@@ -1,0 +1,51 @@
+.section {
+    display: flex;  
+    justify-content: space-evenly;
+    height: 500px;
+}
+
+
+.section-title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    padding-bottom: 24px;
+}
+
+.box-title {
+    margin-top: 140px;
+    width: 445px;
+    height: 107px;
+}
+
+.section-text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    padding-bottom: 14px;
+}
+
+.section-link {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #ED4C5C;
+}
+
+
+.section-video {
+    position: relative;
+    padding-top: 94px;
+    width: 478px;
+}
+
+.play-button {
+    position: absolute;
+    padding-left: 0px;
+    padding-top: 123px;
+}
+
+.video {
+    padding-left: 33px;
+}

@@ -1,0 +1,21 @@
+.main-title {
+    margin-top: 177px;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+    letter-spacing: 0.05em;
+    color: white;
+    text-transform: uppercase;
+}
+
+.info {
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+    margin-bottom: 39px;
+}
+
+.main-wrapper {
+    text-align: center;
+}

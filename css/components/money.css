@@ -1,0 +1,51 @@
+.money-wrapper {
+    display: flex;
+}
+
+.section-money {
+    background: #ED4C5C;
+    height: 500px;
+}
+
+.money-title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    padding-top: 122px;
+    margin-bottom: 30px;
+}
+
+.money-boxtext {
+    width: 445px;
+    height: 64px;
+}
+
+.money-text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.money-download {
+    margin-top: 44px;
+}
+
+.ico-apple {
+    padding-left: 28px;
+    padding-right: 25px;
+}
+
+.money-wrapper {
+    position: relative;
+    display: flex;
+    justify-content: space-evenly
+}
+
+.slider {
+    margin-top: 94px;
+    width: 445px;
+    height: 311px;
+}

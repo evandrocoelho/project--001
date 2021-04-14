@@ -1,0 +1,50 @@
+.main-header {
+    background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url(../../assets/background.png);
+    height: 782px;
+}
+
+.header-wrapper {
+    display: flex;
+    padding-top: 22px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.header-wrapper .logo {
+    width: 172px;
+    height: 29px;
+}
+
+.header-wrapper .navigation a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 10px;
+}
+
+.header-wrapper .logo-flag {
+    width: 32px;
+    height: 32px;
+    padding-right: 11px;
+}
+
+.header-wrapper .arrow-down {
+    width: 12,38px;
+    height: 7,45px;
+    padding-right: 29px;
+}
+
+.header-wrapper .change-lang {
+    color: white;
+    font-weight: 400;
+    line-height: 17px;
+    font-size: 14px;
+    padding-right: 11px;
+}
+.header-wrapper .nav-right {
+    display: flex;
+    align-items: center;
+}

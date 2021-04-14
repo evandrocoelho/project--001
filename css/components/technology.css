@@ -1,0 +1,40 @@
+.technology {
+    height: 400px;
+}
+
+.technology-title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    margin-bottom: 63px;
+}
+
+.technology-content {
+    text-align: center;
+    width: 255px;
+    height: 226px;
+}
+
+.technology-subtitle {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 10px;
+}
+
+.technology-boxtext {
+    padding-left: 34px;
+    padding-right: 30px;
+}
+
+.technology-text {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.technology-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}

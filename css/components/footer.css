@@ -1,0 +1,35 @@
+.footer {
+    height: 280px;
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 85px;
+    margin-bottom: 86px;
+}
+
+.footer-title {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 33px;
+}
+
+.footer-text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.logo {
+    margin-top: 20px;
+    margin-right: 17px;
+}
+
+.copyright {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    margin-left: 113px;
+}
